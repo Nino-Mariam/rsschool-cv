@@ -9,3 +9,6 @@
  **You can view one of my works at  https://github.com/Nino-Mariam/fenty-website.**
 
 I finished 25th public school in Rustavi, currently I am a student and I am studying at Tbilisi State University, as I mentioned it. I have learnt most of the programming languages on my own via Youtube, freecodecamp, w3schools and platforms like that. I also was in a bittcamp for a while and my team leader was Oto Zakalashvili.
+
+
+My relationship with English started when I was 15 years old, well of course I was studying this beautiful language at school, but in my teenage years I decided to learn it on my own, because English that my school tought me was not enough, so I started watching video tutorials, also I was reading English literature and so on. In the age of 18 I started going to an advanced English course. I was studying English there(for 1 year) from books like: Laser B2 and Destination.
