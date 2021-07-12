@@ -7,3 +7,5 @@
 
 **What about my coding skills? Well, I was 18 years old when programming got interesting for me, so I started studying it online: I learnt c#, javascript, HTML and CSS on my own and I studied c++ and Java at Tbilisi State University, I also was interested in ASP.NET MVC. Currently I am learning react.**
  **You can view one of my works at  https://github.com/Nino-Mariam/fenty-website.**
+
+I finished 25th public school in Rustavi, currently I am a student and I am studying at Tbilisi State University, as I mentioned it. I have learnt most of the programming languages on my own via Youtube, freecodecamp, w3schools and platforms like that. I also was in a bittcamp for a while and my team leader was Oto Zakalashvili.
